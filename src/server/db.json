@@ -1,0 +1,20 @@
+{
+  "cart": [
+    {
+      "title": "Buttermilk Crispy Chicken-Meal",
+      "price": 411,
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+      "qty": 1,
+      "menuImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUzcOp_HL7RZgJGfamm4zC10aYotKkHqQJg&usqp=CAU",
+      "id": 1
+    },
+    {
+      "title": "Buttermilk Crispy Chicken-Meal",
+      "price": 411,
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+      "qty": 1,
+      "menuImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUzcOp_HL7RZgJGfamm4zC10aYotKkHqQJg&usqp=CAU",
+      "id": 2
+    }
+  ]
+}

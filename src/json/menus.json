@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Premium Mcwrap Sweet Chilli Chicken (Grilled or Crispy)- Meal",
+        "price": 411,
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "qty": 1,
+        "menuImage": "https://thumbs.dreamstime.com/b/indian-food-curry-butter-chicken-palak-paneer-chiken-tikka-biryani-vegetable-curry-papad-dal-palak-sabji-jira-alu-rice-138549925.jpg"
+      },
+      {
+        "title": "Buttermilk Crispy Chicken-Meal",
+        "price": 411,
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "qty": 1,
+        "menuImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUzcOp_HL7RZgJGfamm4zC10aYotKkHqQJg&usqp=CAU"
+      },
+      {
+        "title": "Double Quarter with cheese ",
+        "price": 411,
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "qty": 1,
+        "menuImage": "https://cdn.wallpapersafari.com/34/46/W6l4nL.jpg"
+      },
+      {
+        "title": "Buttermilk Crisspy Chicken-Meal",
+        "price": 411,
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "qty": 1,
+        "menuImage": "https://wallpapercave.com/wp/wp1929358.jpg"
+      },
+      {
+        "title": "Premium Chicken Bacon Clubhouse ( Grilled or Crispy)",
+        "price": 411,
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "qty": 1,
+        "menuImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV35SqRzP7o8YIHoxQFWWCAj_660_KQYgPA&usqp=CAU"
+      }
+]
